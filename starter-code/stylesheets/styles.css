@@ -1,0 +1,131 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0;
+    background: rgb(32, 101, 136);
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links, .user-info {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0px 20px;
+}
+
+.top-links li, .user-info li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.heart {
+  position: absolute;
+  padding-left: 10px;
+}
+
+.acronym {
+  position: absolute;
+  padding-left: 35px;
+}
+
+.logo , .bear {
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+.intro-button {
+  padding-top: 100px;
+  background-image: url(images/city-scape.svg);
+}
+
+.second-div {
+  margin: 0 auto;
+  background: rgb(32, 101, 136);
+}
+
+.sign-in-header {
+  font: white;
+}
+
+#sign-in {
+  background: rgb(240, 146, 51);
+  position: static;
+}
+
+#orgs {
+  background: rgb(203, 56, 55);
+}
+
+.blabla {
+  float: right;
+  position: relative;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+
+.collaboration {
+  background-color: rgb(39, 53, 71);
+}
+
+.text {
+  padding-right: 500px;
+}
+
+.section1 {
+  position: relative;
+  background-image: url(images/forklift.svg);
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+}
+
+.what-is div {
+  background-size: cover;
+  position: absolute;
+}
+
+#what-is {
+  background-color: rgb(49, 68, 88);
+}
+
+.what-can {
+  text-align: center;
+}
+
+.blocks {
+  margin: 0 auto;
+}
+
+.section {
+  display: inline-block;
+}
+
+.bottom-links {
+  display: inline-block;
+  padding: 0;
+  margin: 0px 20px;
+}
+
+.bottom-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.one {
+  padding-left: 100px;
+}
